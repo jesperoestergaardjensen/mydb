@@ -2,7 +2,7 @@
 
 require '../vendor/autoload.php';
 
-use TexLab\MyDB\DB;
+use jesperoestergaardjensen\MyDB\DB;
 
 $link = DB::link(
     [

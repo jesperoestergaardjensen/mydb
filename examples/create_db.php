@@ -2,8 +2,8 @@
 
 require '../vendor/autoload.php';
 
-use TexLab\MyDB\DB;
-use TexLab\MyDB\Runner;
+use jesperoestergaardjensen\MyDB\DB;
+use jesperoestergaardjensen\MyDB\Runner;
 
 
 $runner = new Runner(

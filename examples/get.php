@@ -2,8 +2,8 @@
 
 require '../vendor/autoload.php';
 
-use TexLab\MyDB\DB;
-use TexLab\MyDB\DbEntity;
+use jesperoestergaardjensen\MyDB\DB;
+use jesperoestergaardjensen\MyDB\DbEntity;
 
 $link = DB::link([
     'host' => 'localhost',

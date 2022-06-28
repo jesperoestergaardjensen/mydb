@@ -1,6 +1,6 @@
 <?php
 
-namespace TexLab\MyDB;
+namespace jesperoestergaardjensen\MyDB;
 
 class DbEntity extends Table
 {

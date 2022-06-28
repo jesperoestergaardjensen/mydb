@@ -3,10 +3,10 @@
 declare(strict_types=1);
 
 use PHPUnit\Framework\TestCase;
-use TexLab\MyDB\CRUDInterface;
-use TexLab\MyDB\DB;
-use TexLab\MyDB\DbEntity;
-use TexLab\MyDB\Runner;
+use jesperoestergaardjensen\MyDB\CRUDInterface;
+use jesperoestergaardjensen\MyDB\DB;
+use jesperoestergaardjensen\MyDB\DbEntity;
+use jesperoestergaardjensen\MyDB\Runner;
 
 class PaginationQueryBuilderTest extends TestCase
 {

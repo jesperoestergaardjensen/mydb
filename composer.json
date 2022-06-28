@@ -23,7 +23,7 @@
   },
   "autoload": {
     "psr-4": {
-      "TexLab\\MyDB\\": "src"
+      "jesperoestergaardjensen\\MyDB\\": "src"
     }
   },
   "scripts": {
